@@ -1,0 +1,4 @@
+WellBeingsAndroid.MainActivity, WellBeingsAndroid;md5ed5f4076996957ff8ccd2ab3619e8b6c.MainActivity
+WellBeingsAndroid.MainActivity, WellBeingsAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ed5f4076996957ff8ccd2ab3619e8b6c.MainActivity
+WellBeingsAndroid.MainActivity;md5ed5f4076996957ff8ccd2ab3619e8b6c.MainActivity
+wellbeingsandroid.MainActivity;md5ed5f4076996957ff8ccd2ab3619e8b6c.MainActivity

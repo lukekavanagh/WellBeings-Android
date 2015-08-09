@@ -1,0 +1,13 @@
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\bin\Debug\WellBeingsAndroid.dll
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\bin\Debug\WellBeingsAndroid.pdb
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\bin\Debug\WellBeingsAndroid.WellBeingsAndroid.apk
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\bin\Debug\WellBeingsAndroid.WellBeingsAndroid-Signed.apk
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\WellBeingsAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\WellBeingsAndroid.dll
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\WellBeingsAndroid.pdb
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\android\bin\WellBeingsAndroid.WellBeingsAndroid.apk
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\R.cs.flag
+C:\Users\Apprentice\WellBeings Android\WellBeingsAndroid\obj\Debug\uploadflags.txt
